@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:text="Home Fragment"
+        android:text="Home Page"
         android:textSize="32sp"
         android:layout_width="match_parent"
         android:gravity="center"

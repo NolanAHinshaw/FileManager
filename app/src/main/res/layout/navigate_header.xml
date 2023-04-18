@@ -15,7 +15,7 @@
     </ImageView>
 
     <TextView
-        android:text="File Explorer"
+        android:text="File Manager"
         android:textColor="@color/white"
         android:paddingTop="8dp"
         android:layout_width="wrap_content"
